@@ -13,4 +13,7 @@ class Dog
         puts "#{name}"
     end 
   end 
+  
+    def self.clear
+      
   end 
